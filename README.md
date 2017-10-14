@@ -1,5 +1,4 @@
 # Bittorrent-P2P-Files-Sharing-Program
-Course project of CNT5106C Computer Networks of University of Florida in Summer 2016
 
 This project is going to design a peer-to-peer network for files uploading and downloading with some features of Bit-torrent.
 
